@@ -1,32 +1,4 @@
-<table>
-<tr>
-<td width="190" valign="middle">
-
-<img src="profile.jpeg"
-     alt="Jibek"
-     width="170">
-
-</td>
-
-<td valign="middle">
-
 # Hi, I'm Jibek 👋
-
-### QA Automation Engineer
-
-UI & REST API Test Automation
-
-**Java • Selenide • REST Assured • Allure • Jenkins**
-
-Currently focused on building automated UI and API testing projects with CI/CD and test reporting integrations.
-
-</td>
-</tr>
-</table>
-
----
-
-# 👩‍💻 About Me
 
 I am a QA Automation Engineer focused on **UI and REST API test automation**.
 
