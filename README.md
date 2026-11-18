@@ -1,12 +1,16 @@
 # Hi, I'm Jibek 👋
 
-### QA Automation
+### QA Automation Engineer | Java | API & UI Testing
 
-I am studying test automation with Java and building UI and API autotests using tools from the QA.GURU course.
+I'm a QA Automation Engineer focused on Java-based UI and REST API test automation.
 
-My current focus is on automated testing, test architecture, CI/CD and reporting integrations.
+I successfully completed the **QA.GURU Java QA Automation Engineer program**, including graduation projects in UI and REST API testing.
 
-## 🛠 Technologies
+My background also includes functional testing training, an internal QA laboratory and supervised project internship experience at **EPAM Systems**, as well as previous experience in banking business analysis and finance.
+
+I'm interested in building reliable automated tests, understanding application behavior, and improving software quality through test automation and CI/CD.
+
+## 🛠 Tech Stack
 
 <p align="center">
   <img width="50" title="Java"
@@ -21,15 +25,12 @@ My current focus is on automated testing, test architecture, CI/CD and reporting
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
   <img width="50" title="Jira"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
-  <img width="50" title="Telegram"
-       src="https://cdn.simpleicons.org/telegram/26A5E4">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Selenide-46A834?style=for-the-badge">
   <img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Allure_Report-F4A261?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Allure_TestOps-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Allure_Reports-F4A261?style=for-the-badge">
   <img src="https://img.shields.io/badge/Selenoid-00AEEF?style=for-the-badge">
 </p>
 
@@ -37,29 +38,60 @@ My current focus is on automated testing, test architecture, CI/CD and reporting
 
 ## 🎓 QA.GURU Diploma Projects
 
-### UI Automation — Chitai-Gorod
+### 🔹 API Automation — Book Club
 
-UI automated testing project for the Chitai-Gorod online bookstore.
+Automated REST API testing project developed as part of the QA.GURU graduation work.
 
-The project includes UI tests with Selenide, parameterized remote execution in Jenkins using Selenoid, Allure reporting and Jira integration.
+**Key features:**
+- Positive and negative API test scenarios
+- User registration and authentication testing
+- Profile update and logout scenarios
+- HTTP response and JSON Schema validation
+- Jenkins integration and Allure reporting
 
-👉 [Chitai-Gorod UI Autotests](https://github.com/tumenbaevaj/chitai-gorod-diploma)
-
-### API Automation — Book Club
-
-API automated testing project for the Book Club REST API.
-
-The project includes positive and negative API scenarios, REST Assured, JSON Schema validation, Allure reporting and Jenkins integration.
+**Technologies:** Java, REST Assured, JUnit 5, Gradle, Jenkins, Allure Reports
 
 👉 [Book Club API Autotests](https://github.com/tumenbaevaj/book-club-api-tests)
 
+### 🔹 UI Automation — Chitai-Gorod
+
+Automated UI testing project for the Chitai-Gorod online bookstore.
+
+**Key features:**
+- Automated browser-based UI tests using Selenide
+- Parameterized test execution
+- Remote browser execution with Selenoid
+- Jenkins CI integration
+- Allure reporting and Jira integration
+
+**Technologies:** Java, Selenide, JUnit 5, Gradle, Jenkins, Selenoid, Allure Reports
+
+👉 [Chitai-Gorod UI Autotests](https://github.com/tumenbaevaj/chitai-gorod-diploma)
+
 ---
 
-## 📌 Current Focus
+## 📜 Certification
 
+**QA.GURU — Java QA Automation Engineer**
+
+Successfully completed the 4-month training program and graduation work.
+
+---
+
+## 📌 Areas of Interest
+
+- REST API test automation
 - UI test automation
-- API test automation
-- Page Object architecture
-- API Client architecture
+- Test framework design
+- Page Object and API Client architecture
 - CI/CD with Jenkins
-- Test reporting with Allure
+- Automated test reporting
+- Backend testing and data validation
+
+---
+
+## 🔗 Connect With Me
+
+[LinkedIn — Zhibek Tumenbaeva](https://www.linkedin.com/in/zhibek-tumenbaeva-a69351183/)
+
+[GitHub — tumenbaevaj](https://github.com/tumenbaevaj)
