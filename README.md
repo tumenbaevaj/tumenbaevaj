@@ -93,5 +93,3 @@ Successfully completed the 4-month training program and graduation work.
 ## 🔗 Connect With Me
 
 [LinkedIn — Zhibek Tumenbaeva](https://www.linkedin.com/in/zhibek-tumenbaeva-a69351183/)
-
-[GitHub — tumenbaevaj](https://github.com/tumenbaevaj)
